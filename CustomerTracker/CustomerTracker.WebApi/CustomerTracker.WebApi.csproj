@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CustomerTracker.Application\CustomerTracker.Application.csproj" />
+    <ProjectReference Include="..\CustomerTracker.Database\CustomerTracker.Database.csproj" />
+    <ProjectReference Include="..\CustomerTracker.Domain\CustomerTracker.Domain.csproj" />
+  </ItemGroup>
+
+
+</Project>

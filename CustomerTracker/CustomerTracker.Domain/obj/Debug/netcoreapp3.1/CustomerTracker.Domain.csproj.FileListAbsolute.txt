@@ -1,0 +1,9 @@
+D:\Projects\CustomerTracker\CustomerTracker.Domain\bin\Debug\netcoreapp3.1\CustomerTracker.Domain.deps.json
+D:\Projects\CustomerTracker\CustomerTracker.Domain\bin\Debug\netcoreapp3.1\CustomerTracker.Domain.dll
+D:\Projects\CustomerTracker\CustomerTracker.Domain\obj\Debug\netcoreapp3.1\CustomerTracker.Domain.csprojAssemblyReference.cache
+D:\Projects\CustomerTracker\CustomerTracker.Domain\obj\Debug\netcoreapp3.1\CustomerTracker.Domain.AssemblyInfoInputs.cache
+D:\Projects\CustomerTracker\CustomerTracker.Domain\obj\Debug\netcoreapp3.1\CustomerTracker.Domain.AssemblyInfo.cs
+D:\Projects\CustomerTracker\CustomerTracker.Domain\bin\Debug\netcoreapp3.1\CustomerTracker.Domain.pdb
+D:\Projects\CustomerTracker\CustomerTracker.Domain\obj\Debug\netcoreapp3.1\CustomerTracker.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\CustomerTracker\CustomerTracker.Domain\obj\Debug\netcoreapp3.1\CustomerTracker.Domain.dll
+D:\Projects\CustomerTracker\CustomerTracker.Domain\obj\Debug\netcoreapp3.1\CustomerTracker.Domain.pdb
